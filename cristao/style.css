@@ -1,0 +1,24 @@
+body{
+    background: black;
+    color: rgb(255, 255, 255);
+    font-family: "Updock", cursive;
+}
+header {
+    border-bottom: solid 2px red;
+    padding: 0px;
+    font-size: 32px;
+    color:red;
+}
+section {
+    background: rgb(87, 23, 23);
+    padding-top: 80px;
+    padding-bottom: 80px;
+    display: flex;
+    justify-content: center;
+}
+div {
+    margin-right: 5%;
+}
+.chamada-texto {
+    font-size: 40px;
+}
